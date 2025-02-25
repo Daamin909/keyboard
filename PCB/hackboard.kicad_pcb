@@ -59560,6 +59560,18 @@
 		(layer "Edge.Cuts")
 		(uuid "7ee412fb-62db-45a9-b54f-0d8aa082da3a")
 	)
+	(gr_text "Daamin's ShrekBoard"
+		(at 370.5 205.1 0)
+		(layer "F.SilkS")
+		(uuid "b6daa605-2814-4fec-86c1-338ace733925")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 345.0575 89.385)
 		(end 362.73875 89.385)

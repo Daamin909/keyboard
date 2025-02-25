@@ -11,8 +11,8 @@ cturing Information (PMI)---4.0---2014-10-13'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'MIDDLE_PLATE.step',
-/* time_stamp */ '2025-02-24T21:45:55+05:30',
+/* name */ 'MIDDLE.step',
+/* time_stamp */ '2025-02-25T20:32:44+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
