@@ -59561,13 +59561,13 @@
 		(uuid "7ee412fb-62db-45a9-b54f-0d8aa082da3a")
 	)
 	(gr_text "Daamin's ShrekBoard"
-		(at 370.5 205.1 0)
+		(at 333.4 146.9 0)
 		(layer "F.SilkS")
 		(uuid "b6daa605-2814-4fec-86c1-338ace733925")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.1)
+				(size 3 3)
+				(thickness 0.3)
 			)
 			(justify left bottom)
 		)
