@@ -73,9 +73,9 @@ I chose to add a Shrek engraving because I like Shrek. The text was an SVG expor
 | M3 x 5mm Heatset Insert (Pack of 25)                          | 1   | 214                          | [here](https://amzn.in/d/ixybuAc)                                                                        |
 | Orph/Raspberry Pi Pico                                        | 1   | From HackClub HQ             |
 | Rotary Encoder Knob                                           | 1   | From HackClub HQ             |
-| Top Case (Black "./production/top.stl")                       | 1   | From HackClub HQ             |
-| Bottom Case (white "./production/bottom.stl")                 | 1   | From HackClub HQ             |
-| Plate ("./production/plate.stl")                              | 1   | From HackClub HQ             |
+| Top Case (Black "./production/TOP.step")                       | 1   | From HackClub HQ             |
+| Bottom Case (white "./production/BOTTOM.step")                 | 1   | From HackClub HQ             |
+| Middle Plate ("./production/MIDDLE.step")                              | 1   | From HackClub HQ             |
 | PCB - (Black Color )                                          | 1   | From HackClub HQ             |
 
 ## Notes :-
