@@ -15,7 +15,6 @@ keyboard.col_pins = ("GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP
 keyboard.row_pins = ("GP13", "GP14", "GP15", "GP16", "GP17", "GP18")
 keyboard.diode_orientation = keyboard.DIODE_COL2ROW
 
-# Layer Definitions
 BASE = (
     KC.ESC,   KC.Q, KC.W, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I, KC.O, KC.P, KC.BSPC,
     KC.TAB,   KC.A, KC.S, KC.D, KC.F, KC.G, KC.H, KC.J, KC.K, KC.L, KC.ENT,
@@ -32,29 +31,26 @@ FN = (
 
 keyboard.keymap = [BASE, FN]
 
-# Function Key Mapping
-keyboard.keys[KC.F1] = KC.BRID  # Lower brightness
-keyboard.keys[KC.F2] = KC.BRIU  # Increase brightness
-keyboard.keys[KC.F3] = KC.MCTL  # Mission Control
-keyboard.keys[KC.F4] = KC.SLCK  # Spotlight Search
-keyboard.keys[KC.F5] = KC.DICT  # Dictation
-keyboard.keys[KC.F6] = KC.DND   # Do Not Disturb
-keyboard.keys[KC.F7] = KC.MPRV  # Previous Track
-keyboard.keys[KC.F8] = KC.MPLY  # Play/Pause
-keyboard.keys[KC.F9] = KC.MNXT  # Next Track
-keyboard.keys[KC.F10] = KC.MUTE # Mute
-keyboard.keys[KC.F11] = KC.VOLD # Volume Down
-keyboard.keys[KC.F12] = KC.VOLU # Volume Up
+keyboard.keys[KC.F1] = KC.BRID 
+keyboard.keys[KC.F2] = KC.BRIU 
+keyboard.keys[KC.F3] = KC.MCTL 
+keyboard.keys[KC.F4] = KC.SLCK 
+keyboard.keys[KC.F5] = KC.DICT  
+keyboard.keys[KC.F6] = KC.DND   
+keyboard.keys[KC.F7] = KC.MPRV  
+keyboard.keys[KC.F8] = KC.MPLY  
+keyboard.keys[KC.F9] = KC.MNXT  
+keyboard.keys[KC.F10] = KC.MUTE 
+keyboard.keys[KC.F11] = KC.VOLD 
+keyboard.keys[KC.F12] = KC.VOLU
 
-# Rotary Encoder for Media Control
 encoder_handler = EncoderHandler()
 keyboard.modules.append(encoder_handler)
 
-encoder_handler.pins = (("GP20", "GP21"),)  # Update based on your wiring
-encoder_handler.map = ((KC.MNXT, KC.MPRV),)  # Right -> Next, Left -> Previous
-keyboard.keymap.append([KC.MPLY])  # Press encoder to Play/Pause
+encoder_handler.pins = (("GP20", "GP21"),)  
+encoder_handler.map = ((KC.MNXT, KC.MPRV),)  
+keyboard.keymap.append([KC.MPLY])  
 
-# OLED Display
 oled = Oled()
 oled.display(oled_data=OledData())
 keyboard.modules.append(oled)

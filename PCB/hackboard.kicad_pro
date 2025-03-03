@@ -469,7 +469,7 @@
       "plot": "hackboard-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../Case/hackboard.step",
+      "step": "../stl/PCB.step",
       "svg": "",
       "vrml": ""
     },
