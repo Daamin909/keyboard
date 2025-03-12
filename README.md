@@ -41,10 +41,16 @@ The PCB's size is 360.4mm x 130.4mm
 
 ## Case
 
-![](assets/Case/top.png)
-![](assets/Case/middle_plate.png)
-![](assets/Case/bottom.png)
-![](assets/Case/assembled.png)
+Thickness:-
+
+- Top: 7mm
+- Plate: 1.5mm
+- Bottom: 11.5mm
+- **Total**: 20mm
+  ![](assets/Case/top.png)
+  ![](assets/Case/middle_plate.png)
+  ![](assets/Case/bottom.png)
+  ![](assets/Case/assembled.png)
 
 The case was made in Fusion360.
 
