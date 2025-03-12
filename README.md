@@ -1,6 +1,6 @@
 # Daamin's Keyboard - ShrekBoard
 
-![](assets/Hero/6.png)
+![](assets/Hero/5.png)
 
 Made by [Daamin](https://daamin.tech)
 
