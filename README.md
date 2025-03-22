@@ -7,10 +7,10 @@ Made by [Daamin](https://daamin.tech)
 Features:
 
 - 78x keys!
-- TKL Layout minus (9 keys above the arrow keys) and Fn moved to the bottom-left
+- TKL Layout minus (9 keys above the arrow keys) and Fn moved to the bottom-left.
+- An extra USB-C hub for other devices and accessories, uses SL2.1A IC.
 - 0.91" OLED for Pictures, Current - Playing Media etc
 - EC11 Rotary Encoder - For Volume, Brightness etc
-- a FUNCTION ROW!! (definitely a needed feature considering current keyboards)
 - Hack Club branded PCB 😎
 - Comfy Design
 - KMK firmware
