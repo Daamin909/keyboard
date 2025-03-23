@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ 'BOTTOM2.step',
-/* time_stamp */ '2025-03-22T23:33:12+05:30',
+/* time_stamp */ '2025-03-23T14:29:29+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -6484,17 +6484,17 @@ SOLID_ANGLE_UNIT()
 #6083=SHAPE_REPRESENTATION('',(#3484,#3631),#6071);
 #6084=SHAPE_REPRESENTATION('',(#3485),#6072);
 #6085=PRODUCT_DEFINITION_CONTEXT('part definition',#6093,'design');
-#6086=PRODUCT_DEFINITION('bottom2','bottom2 v9',#6088,#6085);
+#6086=PRODUCT_DEFINITION('bottom2','bottom2 v12',#6088,#6085);
 #6087=PRODUCT_DEFINITION('hackboard','hackboard',#6089,#6085);
 #6088=PRODUCT_DEFINITION_FORMATION('',$,#6095);
 #6089=PRODUCT_DEFINITION_FORMATION('',$,#6096);
-#6090=PRODUCT_RELATED_PRODUCT_CATEGORY('bottom2 v9','bottom2 v9',(#6095));
+#6090=PRODUCT_RELATED_PRODUCT_CATEGORY('bottom2 v12','bottom2 v12',(#6095));
 #6091=PRODUCT_RELATED_PRODUCT_CATEGORY('hackboard','hackboard',(#6096));
 #6092=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'ap242_managed_model_based_3d_engineering',2011,#6093);
 #6093=APPLICATION_CONTEXT('Managed model based 3d engineering');
 #6094=PRODUCT_CONTEXT('part definition',#6093,'mechanical');
-#6095=PRODUCT('bottom2','bottom2 v9',$,(#6094));
+#6095=PRODUCT('bottom2','bottom2 v12',$,(#6094));
 #6096=PRODUCT('hackboard','hackboard',$,(#6094));
 #6097=PRESENTATION_STYLE_ASSIGNMENT((#6098));
 #6098=SURFACE_STYLE_USAGE(.BOTH.,#6099);

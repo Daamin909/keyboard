@@ -29,9 +29,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
-
-stl/hackboard.stl
-stl/PCB.stl
-stl/hackboard_keycaps.stl
-
+*/HACKBOARD.stl
 keeb
