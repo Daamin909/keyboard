@@ -103,10 +103,10 @@ The Layout is a TKL (Tenkey-less) layout with some mods.
 | Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar) | 1   | 1595 ($18.55)                   | [here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)                                  |
 | Diode 1N4148 Through - Hole                                   | 100 | 169 ($1.97)                     | [here](https://amzn.in/d/j3eLvoh)                                                                          |
 | 0.91" OLED SSD1306                                            | 1   | 278 ($3.23)                     | [here](https://amzn.in/d/3cISYEV)                                                                          |
-| EC11 Rotary Encoder (Pack of 2)                               | 1   | 249 ($2.9)                      | [here](https://amzn.in/d/hVRxzij)                                                                          |
-| M3 x 20mm Bolt (Pack of 15)                                   | 1   | 149 ($1.73)                     | [here](https://amzn.in/d/8GRQWAB)                                                                          |
-| M3 Nuts - (Pack of 8)                                         | 1   | 108 ($1.26)                     | [here](https://amzn.in/d/7UQtsm8)                                                                          |
-| M3 x 5mm Heatset Insert (Pack of 25)                          | 1   | 246 ($2.86)                     | [here](https://amzn.in/d/ixybuAc)                                                                          |
+| EC11 Rotary Encoder                                           | 2   | 249 ($2.9)                      | [here](https://amzn.in/d/hVRxzij)                                                                          |
+| M3 x 20mm Bolt                                                | 15  | 149 ($1.73)                     | [here](https://amzn.in/d/8GRQWAB)                                                                          |
+| M3 Nuts                                                       | 8   | 108 ($1.26)                     | [here](https://amzn.in/d/7UQtsm8)                                                                          |
+| M3 x 5mm Heatset Insert                                       | 25   | 246 ($2.86)                     | [here](https://amzn.in/d/ixybuAc)                                                                          |
 | PCB - (Black Color)                                           | 1   | 3665.72 ($42.64)                | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c5fb1f15d2e06037b44047fc6c5d55dcc16f18ea_image.png) |
 | Orpheus Pico                                                  | 1   | From HackClub HQ                |
 | Rotary Encoder Knob                                           | 1   | From HackClub HQ                |
